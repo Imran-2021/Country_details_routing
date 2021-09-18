@@ -1,0 +1,10 @@
+.countryDetails{
+    padding: 5px;
+    margin: 5px;
+    background-color:aqua;
+    border: 1px solid red;
+    display: grid;
+    grid-template-columns: 70%;
+    justify-content: center;
+    align-items: center;
+}
